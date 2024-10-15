@@ -10,6 +10,8 @@ In MOMCS, the parameters are similar to MCS, but with different tuning:
 
 Additionally, abandoned nests in MOMCS use a larger Lévy step size A⁄∛G, enhancing exploration capabilities.   
 
+The Algorithm is described in "MOMCS Algorithm.jpeg".	
+
 A simple Jupyter Notebook is implementing standard benchmark functions from the Zitzler-Deb-Thiele (ZDT) family is provided here.  
 
 References
