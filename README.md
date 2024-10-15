@@ -12,7 +12,7 @@ Additionally, abandoned nests in MOMCS use a larger Lévy step size A⁄∛G, en
 
 The Algorithm is described in "MOMCS Algorithm.jpg".	
 
-A simple Jupyter Notebook is implementing standard benchmark functions from the Zitzler-Deb-Thiele (ZDT) family is provided here.  
+A simple Jupyter Notebook implementing standard benchmark functions from the Zitzler-Deb-Thiele (ZDT) family is provided here.  
 
 References
 1. Walton S, Hassan O, Morgan K, Brown MR. Modified cuckoo search: A new gradient free optimisation algorithm. Chaos Solitons Fractals [Internet]. 2011 Sep [cited 2024 Jul 20] ;44(9):710–8. Available from: http://dx.doi.org/10.1016/j.chaos.2011.06.004
